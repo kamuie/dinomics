@@ -1,0 +1,19 @@
+{
+  "name": "dinomics",
+  "version": "1.0.0",
+  "description": "paginas dinamicas angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "tst"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamuie/dinomics.git"
+  },
+  "author": "kamuie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamuie/dinomics/issues"
+  },
+  "homepage": "https://github.com/kamuie/dinomics#readme"
+}
